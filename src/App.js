@@ -16,7 +16,7 @@ function App() {
         <p>Te convido a perder esse vício.</p>
         <p>É possível escrever código fácil de ler e dar manutenção, sem a complexidade extra adicionada pelo uso do padrão <em>Page Objects</em>.</p>
         <p>Quer aprender como?</p>
-        <p>Assista a live <a href="https://youtu.be/VYG-gzA1ahY" target="_blank" rel="noreferrer">Por que QAs usam Page Objects com Cypress?</a>, no Canal<a href="https://youtube.com/c/talkingabouttesting" target="_blank" rel="noreferrer"> Talking About Testing</a>, no YouTube.</p>
+        <p>Assista as lives <a href="https://youtu.be/VYG-gzA1ahY" target="_blank" rel="noreferrer">Por que QAs usam Page Objects com Cypress?</a> e <a href="https://youtu.be/YyU8wHm5cv4" target="_blank" rel="noreferrer">Associação dos Page Objects Anônimos - Perca esse vício</a>, no Canal<a href="https://youtube.com/c/talkingabouttesting" target="_blank" rel="noreferrer"> Talking About Testing</a>, no YouTube.</p>
         <br></br>
         <hr />
         <br></br>
