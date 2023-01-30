@@ -1,5 +1,5 @@
 import './App.css';
-import thirdyDays from './30-dias-sem-pos.png';
+import nDays from './n-dias-sem-pos.png';
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <h1><em>Page Objects</em> Anônimos</h1>
       </header>
       <main>
-        <img src={thirdyDays} alt="imagem de um circulo de pessoas sentadas em cadeiras, onde uma delas tem um balão como se estivesse dizendo: 'Fazem 30 dias que não uso Page Objects'"></img>
+        <img src={nDays} alt="imagem de um circulo de pessoas sentadas em cadeiras, onde uma delas tem um balão como se estivesse dizendo: 'Fazem 30 dias que não uso Page Objects'"></img>
         <br></br>
         <br></br>
         <p>Você veio do mundo do Selenium e está acostumado a usar <em>Page Objects</em>?</p>
