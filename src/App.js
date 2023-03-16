@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Associação dos <em>Page Objects</em> Anônimos</h1>
+        <h1>APOA - Associação dos <em>Page Objects</em> Anônimos</h1>
       </header>
       <main>
         <img src={nDays} alt="imagem de um circulo de pessoas sentadas em cadeiras, onde uma delas tem um balão como se estivesse dizendo: 'Fazem 30 dias que não uso Page Objects'"></img>
