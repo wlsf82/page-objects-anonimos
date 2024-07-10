@@ -12,7 +12,7 @@ function App() {
         <br></br>
         <br></br>
         <p>Você veio do mundo do Selenium e está acostumado a usar <em>Page Objects</em>?</p>
-        <p>Te disseram que <em>Page Objects</em> tornariam seus testes mais legíveis e fáceis de manter?</p>
+        <p>Te disseram que <em>Page Objects</em> tornariam os testes mais legíveis e fáceis de manter?</p>
         <p>Te convido a perder esse vício.</p>
         <p>É possível escrever código fácil de ler e dar manutenção, sem a complexidade extra adicionada pelo uso do padrão <em>Page Objects</em>.</p>
         <p>Quer aprender como?</p>
@@ -23,7 +23,7 @@ function App() {
         <br></br>
       </main>
       <footer>
-      <p>Copyleft 😜 <a href="https://walmyr.dev" target="_blank" rel="noreferrer">Walmyr</a>, 2023</p>
+      <p>Copyleft 😜 <a href="https://walmyr.dev" target="_blank" rel="noreferrer">Walmyr</a>, 2024</p>
       </footer>
     </>
   );
