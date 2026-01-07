@@ -23,7 +23,7 @@ function App() {
         <br></br>
       </main>
       <footer>
-      <p>Copyleft 😜 <a href="https://walmyr.dev" target="_blank" rel="noreferrer">Walmyr</a>, 2025</p>
+      <p>Copyleft 😜 <a href="https://walmyr.dev" target="_blank" rel="noreferrer">Walmyr</a>, 2026</p>
       </footer>
     </>
   );
